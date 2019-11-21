@@ -1,0 +1,21 @@
+h1{border-bottom:1px solid gray;
+  margin:0px;
+  padding: 20px;
+  text-align: center;
+  font-size: 50px;
+}
+h2{color: purple;
+font-size: 30px;
+margin-top: 20px;
+margin-left:15px;}
+a {text-decoration: none;
+}
+ol{border-right:1px solid gray;
+width:100px;
+margin: 0px;
+padding:20px;}
+#grid{display:grid;
+grid-template-columns: 150px 1fr;}
+#grid ol{padding-left: 33px;}
+#grid #article{ padding-left: 25px;}
+img{margin-left: 15px;}
